@@ -1,0 +1,13 @@
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.exe
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.deps.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.runtimeconfig.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.runtimeconfig.dev.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.dll
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\bin\Debug\netcoreapp3.1\Inizio.pdb
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.csprojAssemblyReference.cache
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.AssemblyInfoInputs.cache
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.AssemblyInfo.cs
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.csproj.CoreCompileInputs.cache
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.dll
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.pdb
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\Inizio\Inizio\obj\Debug\netcoreapp3.1\Inizio.genruntimeconfig.cache

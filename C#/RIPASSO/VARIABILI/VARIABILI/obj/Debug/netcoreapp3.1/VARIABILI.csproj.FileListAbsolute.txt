@@ -1,0 +1,12 @@
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.exe
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.deps.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.runtimeconfig.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.runtimeconfig.dev.json
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.dll
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\bin\Debug\netcoreapp3.1\VARIABILI.pdb
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.AssemblyInfoInputs.cache
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.AssemblyInfo.cs
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.csproj.CoreCompileInputs.cache
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.dll
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.pdb
+C:\Users\ricca\OneDrive\Desktop\LINGUAGGI\RIPASSO\C#\RIPASSO\INIZIO\VARIABILI\VARIABILI\obj\Debug\netcoreapp3.1\VARIABILI.genruntimeconfig.cache
